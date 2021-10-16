@@ -46,7 +46,7 @@ afterEvaluate {
                 from components.release
                 groupId = "com.Kevinpahlevi"
                 artifactId = "Attestation-Libs"
-                version = "1.0"
+                version = version
             }
         }
     }
